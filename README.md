@@ -1,4 +1,6 @@
 # Testing project
+[![node](https://img.shields.io/badge/nodejs-%40latest-green.svg)](https://github.com/hemanthsunny/sample_dna)
+<br><br>
 A project of reading and displaying data using NodeJs, MongoDB. There are two api's generated in this project - 
 <br><br>
 <a href="#">localhost:8080</a><br>
